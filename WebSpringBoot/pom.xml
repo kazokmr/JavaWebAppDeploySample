@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>web-spring-boot-jar</name>
+    <name>jar From Spring Boot</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -66,6 +66,7 @@
     </dependencies>
 
     <build>
+        <finalName>web-spring-boot</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
