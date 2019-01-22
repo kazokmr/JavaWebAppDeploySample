@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="WebSpringMvc:war exploded">
+  <artifact type="exploded-war" name="web-spring-mvc:war exploded">
     <output-path>$PROJECT_DIR$/WebSpringMvc/target/web-spring-mvc</output-path>
     <properties id="maven-jee-properties">
       <options>
